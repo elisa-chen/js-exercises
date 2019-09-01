@@ -19,5 +19,3 @@ for (let i = 0; i < mutants.length; i++) {
 
 
 
-/*Fin out Magneto position and remove it from the mutants array
-Iterate over the array without Magento on it and show each mutant name in upper case and the item position*/
